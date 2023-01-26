@@ -27,7 +27,7 @@ End the program.
 
 ## PROGRAM:
 
-''' 
+```
 Program to copy the contents from one file to another file
 Developed by: SWETHA P
 RegisterNumber: 22008542
