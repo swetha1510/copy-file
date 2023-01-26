@@ -31,12 +31,12 @@ End the program.
 Program to copy the contents from one file to another file
 Developed by: SWETHA P
 RegisterNumber: 22008542
-'''
+
 with open('new.txt','r') as firstfile:
     with open('file.txt','a') as secondfile:
         for line in firstfile:
             secondfile.write(line)
-
+```
 
 ### OUTPUT:
 ![AfterCopy](https://user-images.githubusercontent.com/119477975/214105415-bc357645-9f26-41c4-9ccd-7891b2dec183.png)
