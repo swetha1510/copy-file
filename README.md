@@ -39,6 +39,7 @@ with open('new.txt','r') as firstfile:
 ```
 
 ### OUTPUT:
+
 ![AfterCopy](https://user-images.githubusercontent.com/119477975/214105415-bc357645-9f26-41c4-9ccd-7891b2dec183.png)
 ![BeforeCopy](https://user-images.githubusercontent.com/119477975/214105446-a045358c-a305-43e9-923a-0a7adcacd6bd.png)
 ![file](https://user-images.githubusercontent.com/119477975/214105506-bded885b-1b2b-4c99-b868-84de78af0f16.png)
